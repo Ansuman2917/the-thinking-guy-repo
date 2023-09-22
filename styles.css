@@ -101,11 +101,11 @@ main {
 }
 
 .course-card {
+  width: 258px;
   border: 1px solid #ddd;
   border-radius: 4px;
-  padding: 20px;
+  padding: 15px;
   margin-bottom: 20px;
-  width: 270px;
 }
 
 .course-card img {
