@@ -108,6 +108,13 @@ main {
   margin-bottom: 20px;
 }
 
+@media (max-width: 768px) {
+  .card {
+    width: 100%; /* Take up the full width of the viewport */
+    margin: 10px; /* Add some spacing between cards */
+  }
+}
+
 .course-card img {
   width: 100%;
   height: 200px;
